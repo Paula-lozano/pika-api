@@ -21,7 +21,3 @@ async function Detalle (pokemon){ // Funcion sincronizada, espera que el proceso
     </section>`
         
 }
-Detalle(6) //"pikachu"
-
-// Comilla literal 
-// Concatenacion + parametro
